@@ -1,0 +1,3 @@
+package: github.com/pallat/sig
+import:
+- package: gopkg.in/yaml.v2
